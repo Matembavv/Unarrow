@@ -12,8 +12,8 @@ This tool modifies the Windows registry. Use at your own risk.
 
 ## Requirements
 
-- Windows 10 or 11 (works on 7/8 too).
-- **Administrator rights** (required to edit the registry).
+- Windows 10 / 11.
+- **Administrator rights**.
 
 ## Usage
 
@@ -30,7 +30,7 @@ The screen will flicker briefly while Explorer restarts — that's normal.
 
 ## How it works
 
-The tool writes (or deletes) a single registry value:
+The tool writes or deletes a single registry value:
 
 ```
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Icons
