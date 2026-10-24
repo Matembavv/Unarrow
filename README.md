@@ -12,7 +12,7 @@ This tool modifies the Windows registry. Use at your own risk.
 
 ## Requirements
 
-- Windows 10 / 11.
+- **Windows 10 / 11**.
 - **Administrator rights**.
 
 ## Usage
